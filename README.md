@@ -1,6 +1,8 @@
 # interactive-stock-index-dashboard-
 # Here is my attempt to re-creating an interactive dashboard that visualises stock data from the world major stock indexs from the plotly and dash library. 
 
+
+
 import dash 
 from dash import dcc
 from dash import html 
